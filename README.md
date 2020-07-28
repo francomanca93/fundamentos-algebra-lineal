@@ -41,6 +41,12 @@ El uso de Jupyter Notebook, similar a Google Colab, que está basado en Jupyter.
 Para finalizar se ven las bases del algebra lineal. Estos son los escalares, vectores, matrices y tensores. 
 
 ### Realiza operaciones básicas
+[Notebook del contenido](https://github.com/francomanca93/fundamentos-algebra-lineal/blob/master/2_Operaciones_b%C3%A1sicas.ipynb)
+
+En el contenido de la siguiente sección se realizan operaciones básicas con escalares, matrices, vectores y tensores, todo con python y aplicando la librería numpy. 
+
+Se ven las obtener y ver las dimensiones de los elementos bases, que es la transposición, la suma de escalares, vectores y matrices. Para finalizar es hacen operaciones de vectores y matrices de diferentes dimensiones, broadcasting. 
+
 ### Operaciones con Matrices
 ### Sistema de ecuaciones lineales
 ### Normas
