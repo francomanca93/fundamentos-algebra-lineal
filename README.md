@@ -27,8 +27,19 @@ El contenido esta basado en el [Capítulo 2 de Algebra Lineal](http://www.deeple
 - [Matrices y vectores especiales](#Matrices-y-vectores-especiales)
 - [Otras funciones de Algebra Lineal](#Otras-funciones-de-Algebra-Lineal)
 
-
+El contenido de cada sección se encuentra en notebooks que se van realizando en el curso.
 ### Conceptos básicos de Álgebra Lineal y configuración del entorno de trabajo
+
+[Notebook del contenido](https://github.com/francomanca93/fundamentos-algebra-lineal/blob/master/1_Conceptos_b%C3%A1sicos_y_configuraci%C3%B3n.ipynb)
+
+En el contenido de la siguiente sección se vio la presentación del curso y la necesidad del Algebra Lineal para entender los algoritmos de Machine Learning y Deep Learning. 
+
+Utiizar Anaconda + Python, crear un entorno de trabajo y actualizar paquetes. En mi caso estaré utilizando Google Colab.
+
+El uso de Jupyter Notebook, similar a Google Colab, que está basado en Jupyter. 
+
+Para finalizar se ven las bases del algebra lineal. Estos son los escalares, vectores, matrices y tensores. 
+
 ### Realiza operaciones básicas
 ### Operaciones con Matrices
 ### Sistema de ecuaciones lineales
