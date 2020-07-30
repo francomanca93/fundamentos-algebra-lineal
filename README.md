@@ -48,6 +48,16 @@ En el contenido de la siguiente sección se realizan operaciones básicas con es
 Se ven las obtener y ver las dimensiones de los elementos bases, que es la transposición, la suma de escalares, vectores y matrices. Para finalizar es hacen operaciones de vectores y matrices de diferentes dimensiones, broadcasting. 
 
 ### Operaciones con Matrices
+[Notebook del contenido](https://github.com/francomanca93/fundamentos-algebra-lineal/blob/operaciones-matriciales/3_Operaciones_con_Matrices.ipynb)
+
+En el contenido de la siguiente sección realizan operaciones matriciales. Se vio el producto interno o **producto escalar** entre una matriz y un vector, entre matrices. 
+
+Tambien se vieron las **propiedades del producto escalar** entre matrices. Las mismas son **conmutativa**, **asociativa** y **distributiva**. Luego de las propiedades se ve el concepto de **transposición**.
+
+Luegos de entender el producto escalar y propiedades, se estudian los **sistemas de ecuaciones lineales**. Para poder resolver un sistema se deben entender ciertas matrices especiales, estas son las matrices **identidad**, **inversa**, **singular**. 
+
+Se finaliza el módulo entendiendo y aplicando la **inversa de una matriz para resolver un sistema de ecuaciones lineales**.
+
 ### Sistema de ecuaciones lineales
 ### Normas
 ### Matrices y vectores especiales
