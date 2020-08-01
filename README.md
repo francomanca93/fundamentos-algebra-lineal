@@ -60,7 +60,7 @@ Se finaliza el módulo entendiendo y aplicando la **inversa de una matriz para r
 
 ### Sistema de ecuaciones lineales
 
-[Notebook del contenido]()
+[Notebook del contenido](https://github.com/francomanca93/fundamentos-algebra-lineal/blob/sistemas-ecuaciones/4_Sistema_de_ecuaciones_lineales.ipynb)
 
 En el contenido de la siguiente sección se estudian sistemas de ecuaciones , **sobre determinados, determinados e indeterminados**. Todos los sistemas con ejemplo gráficos.
 
