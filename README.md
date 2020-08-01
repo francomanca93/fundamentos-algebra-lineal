@@ -59,6 +59,18 @@ Luegos de entender el producto escalar y propiedades, se estudian los **sistemas
 Se finaliza el módulo entendiendo y aplicando la **inversa de una matriz para resolver un sistema de ecuaciones lineales**.
 
 ### Sistema de ecuaciones lineales
+
+[Notebook del contenido]()
+
+En el contenido de la siguiente sección se estudian sistemas de ecuaciones , **sobre determinados, determinados e indeterminados**. Todos los sistemas con ejemplo gráficos.
+
+Se continua con conceptos de vectores y se crea una [función en un notebook separado para graficar vectores](https://github.com/francomanca93/fundamentos-algebra-lineal/blob/sistemas-ecuaciones/graficar_vectores.ipynb). Y en el notebook principal se aprende como importar modulos creados en otros notebooks. 
+
+La siguiente sección se estudia el concepto de **combinación lineal**, cual es el concepto y como se representa gráficamente. Se estudian **espacios** y **subespacios (hiperplano)**. Se estudia como se pueden crear planos **unidimensionales, bidimensionales y tridimensionales** con combinaciones lineales de vectores. 
+
+Se finaliza con un concepto muy importante en algebra lineal que son los **vectores linealmente independientes**. Se estudia como se pueden identificar con funciones en numpy y con estos conceptos **poder validar que una matriz tenga inversa**. 
+
+
 ### Normas
 ### Matrices y vectores especiales
 ### Otras funciones de Algebra Lineal
