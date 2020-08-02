@@ -72,5 +72,14 @@ Se finaliza con un concepto muy importante en algebra lineal que son los **vecto
 
 
 ### Normas
+
+[Notebook del contenido](https://github.com/francomanca93/fundamentos-algebra-lineal/blob/norma/5_Normas.ipynb)
+
+En el contenido de la siguiente sección  se estudia **qué es una norma y para qué se usa,** las **propiedades** de esta y se estudia gráficamente la segunda propiedad, que es la **desigualdad triangular**. 
+
+Tambien se estudian los **tipos de normas**. Las normas se representan con la letra **L** y se estudian las **normas L0, L1, L2, L2² y Linfinito** y su importancia en machine learning. 
+
+Se finaliza con el estudio del **producto interno como función de una norma y su visualización**. Se estudia la importancia de el **coseno similitud entre dos vectores** en Machine Learning y como se puede utilizar para relacionar dos textos representados como vectores numéricos.
+
 ### Matrices y vectores especiales
 ### Otras funciones de Algebra Lineal
