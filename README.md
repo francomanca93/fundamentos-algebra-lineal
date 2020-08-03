@@ -25,7 +25,7 @@ El contenido esta basado en el [Capítulo 2 de Algebra Lineal](http://www.deeple
 - [Sistema de ecuaciones lineales](#Sistema-de-ecuaciones-lineales)
 - [Normas](#Normas)
 - [Matrices y vectores especiales](#Matrices-y-vectores-especiales)
-- [Otras funciones de Algebra Lineal](#Otras-funciones-de-Algebra-Lineal)
+- [El determinante y la traza](#El-determinante-y-la-traza)
 
 El contenido de cada sección se encuentra en notebooks que se van realizando en el curso.
 ### Conceptos básicos de Álgebra Lineal y configuración del entorno de trabajo
@@ -90,4 +90,12 @@ En el contenido de la siguiente sección se estudia **matrices y vectores especi
 Para finalizar la sección vemos **vectores ortogonales, matrices ortogonales y sus propiedades**. 
 
 
-### Otras funciones de Algebra Lineal
+### El determinante y la traza
+
+[Notebook del contenido](https://github.com/francomanca93/fundamentos-algebra-lineal/blob/especiales/7_El_determinante_y_la_traza.ipynb)
+
+El contenido de la siguiente sección se estudian dos funciones imporantes. Ellas son la **traza** y el **determinante**. 
+
+La **traza** función nos va devolver siempre el mismo número, independientemente del sistema de referencia que utiilcemos para representar a nuestra matriz.
+
+El **determinante** de una matriz es un número que nos dice en que proporción a transformado el espacio resultante de los vectores unitarios.
