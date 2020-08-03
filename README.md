@@ -82,4 +82,12 @@ Tambien se estudian los **tipos de normas**. Las normas se representan con la le
 Se finaliza con el estudio del **producto interno como función de una norma y su visualización**. Se estudia la importancia de el **coseno similitud entre dos vectores** en Machine Learning y como se puede utilizar para relacionar dos textos representados como vectores numéricos.
 
 ### Matrices y vectores especiales
+
+[Notebook del contenido](https://github.com/francomanca93/fundamentos-algebra-lineal/blob/especiales/6_Matrices_y_vectores_especiales.ipynb)
+
+En el contenido de la siguiente sección se estudia **matrices y vectores especiales**. Entre estos vemos la **matriz diagonal** y la **matriz simétrica** y las **propiedades** de ambas.
+
+Para finalizar la sección vemos **vectores ortogonales, matrices ortogonales y sus propiedades**. 
+
+
 ### Otras funciones de Algebra Lineal
